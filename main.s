@@ -15,7 +15,7 @@ _start:
 
 label01:
 	nop
-
+  movs r0, #100
 	//
 	//branch w/ link
 	//

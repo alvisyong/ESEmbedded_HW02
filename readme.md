@@ -58,4 +58,4 @@ This is the hw02 sample. Please follow the steps below.
 Please take your note here.
 
  我發現 push pop 依照暫存器編號大小順序 由小到大
- 一開始輸入push [r0,r1,r2]  在輸入push[r2,r1,r0] 在打開qemu後發現永遠只是 push[r0,r1,r2] 查手冊後發現不論push pop 順序都由小到大
+ 一開始輸入push [r0,r1,r2]  在輸入push[r2,r1,r0] 在打開qemu後發現永遠只是 push[r0,r1,r2] 查手冊後發現不論push pop 順序都由小到大.
